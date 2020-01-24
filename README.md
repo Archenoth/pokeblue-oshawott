@@ -1,35 +1,20 @@
-# Pokémon Red and Blue
+# Pokémon Red and Blue: Oshawott Edition
+This is a ROM hack (Well, kinda) of Pokemon Red and Blue where you can pick Oshawott as your starter at the beginning of the game!
 
-This is a disassembly of Pokémon Red and Blue.
+![Oshawott in the Pokedex](OshawottDex.png "Oshawott's Pokedex Entry in Pokemon Blue")
 
-It builds the following roms:
+![Oshawott in a Battle](OshawottBattle.png "Oshawott battling a Bulbasaur")
 
-* Pokemon Red (UE) [S][!].gb  `md5: 3d45c1ee9abd5738df46d2bdda8b57dc`
-* Pokemon Blue (UE) [S][!].gb `md5: 50927e843568814f7ed45ec4f944bd8b`
+To compile and play it, follow the instructions in [**INSTALL.md**](INSTALL.md)!
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+## Isn't this a ROM hack?
+It probably is! But it also isn't one in the traditional sense, since I'm never actually touching any ROMs, or any patch files to use on ROMs. It's actually a modification of the extremely rad Pokemon Red and Blue disassemblies by [pret][pret]; the Pokemon Reverse Engineering Team.
 
+All my project here really is, are modifications to the extremely clean disassembly data that they made. And because I'm never actually touching any ROMs, I don't really know what to call a modification from a project like this.
 
-## See also
+# Disclaimer
+I can't, for legal reasons, distribute built ROMs containing copyrighted content in it, so any binary builds requested will need to instead be patch files containing the changes needed to add my own fanart and modifications to the base game (that you'll need to apply yourself with a patching program).
 
-* Disassembly of [**Pokémon Yellow**][pokeyellow]
-* Disassembly of [**Pokémon Gold**][pokegold]
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
-* Disassembly of [**Pokémon Pinball**][pokepinball]
-* Disassembly of [**Pokémon TCG**][poketcg]
-* Disassembly of [**Pokémon Ruby**][pokeruby]
-* Disassembly of [**Pokémon Fire Red**][pokefirered]
-* Disassembly of [**Pokémon Emerald**][pokeemerald]
-* Discord: [**pret**][Discord]
-* irc: **irc.freenode.net** [**#pret**][irc]
+No part of this repository contains data files obtained from the original development tree of the game.
 
-[pokeyellow]: https://github.com/pret/pokeyellow
-[pokegold]: https://github.com/pret/pokegold
-[pokecrystal]: https://github.com/pret/pokecrystal
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokefirered]: https://github.com/pret/pokefirered
-[pokeemerald]: https://github.com/pret/pokeemerald
-[Discord]: https://discord.gg/d5dubZ3
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
+[pret]: https://github.com/pret
