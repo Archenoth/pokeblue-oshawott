@@ -1409,13 +1409,13 @@ _CharmanderDexEntry::
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "It fights using"
+	next "the scalchop on"
+	next "its stomach."
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "In response to an"
+	next "attack, it will"
+	next "retaliate with it"
 	dex
 
 _CharmeleonDexEntry::

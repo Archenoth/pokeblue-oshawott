@@ -1183,9 +1183,9 @@ CharmanderDexEntry:
 	db "@"
 
 SquirtleDexEntry:
-	db "TINYTURTLE@"
+	db "SEA OTTER@"
 	db 1,8
-	dw 200
+	dw 130
 	TX_FAR _SquirtleDexEntry
 	db "@"
 

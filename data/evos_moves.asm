@@ -1988,15 +1988,13 @@ CharmanderEvosMoves:
 
 SquirtleEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 16, WARTORTLE
+	db EV_LEVEL, 17, WARTORTLE
 	db 0
 ; Learnset
-	db 8, BUBBLE
-	db 15, WATER_GUN
-	db 22, BITE
-	db 28, WITHDRAW
-	db 35, SKULL_BASH
-	db 42, HYDRO_PUMP
+	db 7, WATER_GUN
+	db 13, FOCUS_ENERGY
+	db 41, SWORDS_DANCE
+	db 43, HYDRO_PUMP
 	db 0
 
 CharmeleonEvosMoves:

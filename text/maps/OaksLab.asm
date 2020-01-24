@@ -34,7 +34,7 @@ _OaksLabCharmanderText::
 _OaksLabSquirtleText::
 	text "So! You want the"
 	line "water #MON,"
-	cont "SQUIRTLE?"
+	cont "OSHAWOTT?"
 	done
 
 _OaksLabBulbasaurText::
