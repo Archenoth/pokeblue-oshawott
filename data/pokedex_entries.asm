@@ -385,9 +385,9 @@ StaryuDexEntry:
 	db "@"
 
 BlastoiseDexEntry:
-	db "SHELLFISH@"
-	db 5,3
-	dw 1890
+	db "FORMIDABLE@"
+	db 4,11
+	dw 2086
 	TX_FAR _BlastoiseDexEntry
 	db "@"
 
@@ -1197,9 +1197,9 @@ CharmeleonDexEntry:
 	db "@"
 
 WartortleDexEntry:
-	db "TURTLE@"
-	db 3,3
-	dw 500
+	db "DISCIPLINE@"
+	db 2,7
+	dw 540
 	TX_FAR _WartortleDexEntry
 	db "@"
 

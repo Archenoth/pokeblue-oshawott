@@ -269,13 +269,13 @@ _StaryuDexEntry::
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "In the time it"
+	next "takes a foe to"
+	next "blink, it can draw"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "and sheathe the"
+	next "seamitars attached"
+	next "to its front legs."
 	dex
 
 _PinsirDexEntry::
@@ -1429,13 +1429,13 @@ _CharmeleonDexEntry::
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "As a result of"
+	next "strict training,"
+	next "each Dewott"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "learns different"
+	next "forms for using"
+	next "the scalchops."
 	dex
 
 _CharizardDexEntry::
@@ -1507,4 +1507,3 @@ _VictreebelDexEntry::
 	next "has ever returned"
 	next "from there"
 	dex
-
