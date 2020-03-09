@@ -506,12 +506,12 @@ BlastoiseEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 8, BUBBLE
-	db 15, WATER_GUN
-	db 24, BITE
-	db 31, WITHDRAW
-	db 42, SKULL_BASH
-	db 52, HYDRO_PUMP
+	db 1, SLASH
+	db 5, TAIL_WHIP
+	db 7, WATER_GUN
+	db 13, FOCUS_ENERGY
+	db 58, SWORDS_DANCE
+	db 63, HYDRO_PUMP
 	db 0
 
 PinsirEvosMoves:
@@ -2015,12 +2015,11 @@ WartortleEvosMoves:
 	db EV_LEVEL, 36, BLASTOISE
 	db 0
 ; Learnset
-	db 8, BUBBLE
-	db 15, WATER_GUN
-	db 24, BITE
-	db 31, WITHDRAW
-	db 39, SKULL_BASH
-	db 47, HYDRO_PUMP
+	db 5, TAIL_WHIP
+	db 7, WATER_GUN
+	db 13, FOCUS_ENERGY
+	db 50, SWORDS_DANCE
+	db 53, HYDRO_PUMP
 	db 0
 
 CharizardEvosMoves:

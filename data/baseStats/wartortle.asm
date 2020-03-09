@@ -1,9 +1,9 @@
 db DEX_WARTORTLE ; pokedex id
-db 59 ; base hp
-db 63 ; base attack
-db 80 ; base defense
-db 58 ; base speed
-db 65 ; base special
+db 75 ; base hp
+db 75 ; base attack
+db 60 ; base defense
+db 60 ; base speed
+db 83 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
@@ -14,15 +14,15 @@ dw WartortlePicBack
 ; attacks known at lvl 0
 db TACKLE
 db TAIL_WHIP
-db BUBBLE
+db WATER_GUN
 db 0
 db 3 ; growth rate
 ; learnset
-	tmlearn 1,5,6,8
-	tmlearn 9,10,11,12,13,14
-	tmlearn 17,18,19,20
-	tmlearn 28,31,32
-	tmlearn 33,34,40
+	tmlearn 1,3,5,6
+	tmlearn 12,13,14
+	tmlearn
+	tmlearn 32
+	tmlearn
 	tmlearn 44
-	tmlearn 50,53,54
+	tmlearn 51,53
 db 0 ; padding
